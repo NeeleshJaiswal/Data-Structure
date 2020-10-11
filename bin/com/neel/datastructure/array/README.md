@@ -28,3 +28,17 @@ O(n)
 
 # Accessing Time complexity (worst scenario)
 O(n)
+
+# Pro & Cons
+Good for storing similar dat
+O(1) accessing power
+
+Size of array cannot be changed
+Inserting and Deleting are not efficient
+Can be wasting storage space (if array have size 10 and only 2 places are filled it will take place of 10 elements)
+
+# Arraylist is an advance version of array
+have lot of similar functionalities
+Arraylist always use the array in backend
+
+
